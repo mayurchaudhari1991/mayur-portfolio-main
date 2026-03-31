@@ -11,7 +11,6 @@ This project uses Club GSAP plugins from the local `gsap-public` folder for depl
 
 ![Portfolio-Preview](public/images/preview.png)
 
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
