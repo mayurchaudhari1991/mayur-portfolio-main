@@ -7,7 +7,7 @@ Do check it out!
 
 This project uses Club GSAP plugins from the local `gsap-public` folder for deployment-safe builds. If you need your own plugin files, check: https://gsap.com/docs/v3/Installation/
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+**Techstack** - React, TypeScript, GSAP, JavaScript, HTML, CSS, WordPress, MongoDB, Node.js, Express.js
 
 ![Portfolio-Preview](public/images/preview.png)
 
