@@ -5,7 +5,7 @@ Do check it out!
 
 ## Instructions 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This project uses Club GSAP plugins from the local `gsap-public` folder for deployment-safe builds. If you need your own plugin files, check: https://gsap.com/docs/v3/Installation/
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
